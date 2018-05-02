@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sinalgo>
+	<ProjectSelector windowWidth="800" windowHeight="600" lastChosenProject="sample5" windowPosX="200" windowPosY="100" isMaximized="false" selectedTab="1" />
+	<GUI windowWidth="827" windowHeight="626" windowPosX="87" windowPosY="101" isMaximized="false" ControlPanelExpandSimulation="true" ControlPanelShowFullViewPanel="false" ControlPanelShowTextPanel="true" ControlPanelShowProjectControl="true" RunOperationIsLimited="false" helpWindowWidth="500" helpWindowHeight="500" helpWindowPosX="200" helpWindowPosY="200" helpWindowIsMaximized="false" />
+	<RandomSeed seedFromPreviousRun="7497528918422227837" />
+	<App lastSelectedFileDirectory="" checkForUpdatesAtStartup="false" updateCheckTimeStamp="0" runCmdLineArgs="-project GAF -gen 900 GAF:GAF GAF:Grid C=UDG -gen 1 GAF:Sink GAF:Grid C=UDG -rounds 100 -overwrite dimX=173 dimY=173 GeometricNodeCollection/rMax=30 UDG/rMax=30 minimunTimeBetweenSends/time=60 maxEnergyOfBattery/value=1000 " />
+	<GenNodesDlg numNodes="100" />
+</sinalgo>
+
